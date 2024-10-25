@@ -1,2 +1,5 @@
 body{background-color: bisque;}
 h1{text-align: center;}
+article{text-align: center ;}
+img{margin-left: 100px;}
+.right{margin-right: 100px;float: right;}
